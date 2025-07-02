@@ -1,0 +1,45 @@
+[
+     {
+        "Author": "Liza Carvelli (Puni.sh) / NiGuangOwO (本地化适配) / Amely(7.2适配)",
+        "Name": "Palace Pal",
+        "Punchline": "在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。",
+        "Description": "在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。\n\n这个插件需要Splatoon才能在屏幕上渲染绘图。",
+        "Tags": [
+            "potd",
+            "palace",
+            "hoh",
+            "splatoon"
+        ],
+        "InternalName": "PalacePal",
+        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+        "AssemblyVersion": "4.12.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
+        "DownloadLinkInstall": "https://github.com/shana321/DalamudPlugins/raw/main/PalacePal/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/shana321/DalamudPlugins/raw/main/PalacePal/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1743091529916"
+    },
+    {
+        "Author": "NightmareXIV / Amely7.2适配",
+        "Name": "Splatoon",
+        "InternalName": "Splatoon",
+        "AssemblyVersion": "3.8.1.2",
+        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/PunishXIV/Splatoon",
+        "Tags": [
+            "Utility",
+            "Accessibility"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IconUrl": "https://love.puni.sh/resources/splatoon.png",
+        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
+        "AcceptsFeedback": true
+    }
+]
