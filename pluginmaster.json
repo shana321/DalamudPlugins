@@ -39,6 +39,8 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "IconUrl": "https://love.puni.sh/resources/splatoon.png",
+        "DownloadLinkInstall": "https://github.com/shana321/DalamudPlugins/raw/main/splatoon/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/shana321/DalamudPlugins/raw/main/splatoon/latest.zip",
         "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
         "AcceptsFeedback": true
     }
