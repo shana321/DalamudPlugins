@@ -68,8 +68,8 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
-        "DownloadLinkInstall": "https://github.com/shana321/DalamudPlugins/raw/main/splatoon/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/shana321/DalamudPlugins/raw/main/splatoon/latest.zip",
+        "DownloadLinkInstall": "https://github.com/shana321/DalamudPlugins/raw/main/necrolens/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/shana321/DalamudPlugins/raw/main/necrolens/latest.zip",
         "Punchline": "众所周知，死灵术士很熟悉深宫...或者他们只是在用科技！",
         "AcceptsFeedback": true
     }
