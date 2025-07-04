@@ -1,0 +1,27 @@
+{
+  "Author": "Jukka / Amely(7.2适配)",
+  "Name": "NecroLens",
+  "InternalName": "NecroLens",
+  "AssemblyVersion": "0.0.0.0",
+  "Description": "深宫仇恨范围可视化.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Jukkales/NecroLens",
+  "Tags": [
+    "potd",
+    "hoh",
+    "eo",
+    "esp",
+    "radar",
+    "sonar",
+    "deep",
+    "dungeon"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
+  "Punchline": "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
+  "AcceptsFeedback": true
+}

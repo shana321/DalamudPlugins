@@ -26,7 +26,7 @@
         "Name": "Splatoon",
         "InternalName": "Splatoon",
         "AssemblyVersion": "3.8.1.2",
-        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
+        "Description": "小画家.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
         "Tags": [
@@ -41,7 +41,36 @@
         "IconUrl": "https://love.puni.sh/resources/splatoon.png",
         "DownloadLinkInstall": "https://github.com/shana321/DalamudPlugins/raw/main/splatoon/latest.zip",
         "DownloadLinkUpdate": "https://github.com/shana321/DalamudPlugins/raw/main/splatoon/latest.zip",
-        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
+        "Punchline": "国服小画家",
+        "AcceptsFeedback": true
+    },
+    {
+        "Author": "Jukka / Amely(7.2适配)",
+        "Name": "NecroLens",
+        "InternalName": "NecroLens",
+        "AssemblyVersion": "0.0.0.0",
+        "Description": "深宫仇恨范围可视化.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Jukkales/NecroLens",
+        "Tags": [
+            "potd",
+            "hoh",
+            "eo",
+            "esp",
+            "radar",
+            "sonar",
+            "deep",
+            "dungeon"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
+        "DownloadLinkInstall": "https://github.com/shana321/DalamudPlugins/raw/main/splatoon/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/shana321/DalamudPlugins/raw/main/splatoon/latest.zip",
+        "Punchline": "众所周知，死灵术士很熟悉深宫...或者他们只是在用科技！",
         "AcceptsFeedback": true
     }
 ]
